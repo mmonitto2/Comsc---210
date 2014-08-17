@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1384984766 source:c:\users\michael monitto\desktop\lab12-210\priorityqueuedriver.cpp
+	<iostream>
+	"PriorityQueue.h"
+
+1384984760 c:\users\michael monitto\desktop\lab12-210\priorityqueue.h
+	<cassert>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385522280 source:c:\users\michael monitto\desktop\lab13-210\simulation.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

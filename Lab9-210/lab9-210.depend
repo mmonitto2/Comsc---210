@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1382203274 source:c:\users\michael monitto\desktop\lab9-210\fileinput.cpp
+	<algorithm>
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<cassert>
+	<cmath>
+	<ctime>
+	"Array.h"
+
+1382197776 c:\users\michael monitto\desktop\lab9-210\array.h
+	<string>
+
+1382214134 source:c:\users\michael monitto\desktop\lab9-210\sort.cpp
+	<algorithm>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cassert>
+	<cmath>
+	<ctime>
+
+1382211995 source:c:\users\michael monitto\desktop\lab9-210\test.cpp
+	<algorithm>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cassert>
+	<cmath>
+	<ctime>
+

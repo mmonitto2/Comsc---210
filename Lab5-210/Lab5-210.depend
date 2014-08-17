@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1379651999 source:c:\users\michael monitto\desktop\lab5-210\dvcschedule5b.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	"Array.h"
+
+1379649145 c:\users\michael monitto\desktop\lab5-210\array.h
+

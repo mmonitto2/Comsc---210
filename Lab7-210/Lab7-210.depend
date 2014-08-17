@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1380653923 source:c:\users\michael monitto\desktop\lab7-210\dvcschedule7a.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<ctime>
+	<cstring>
+	<deque>
+

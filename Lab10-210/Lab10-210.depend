@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1383340223 source:c:\users\michael monitto\desktop\lab10-210\linkedlistbigoh.cpp
+	<iostream>
+	<string>
+	"LinkedList.h"
+	<algorithm>
+	<cassert>
+	<cmath>
+	<ctime>
+
+1383340110 c:\users\michael monitto\desktop\lab10-210\linkedlist.h
+	<cassert>
+

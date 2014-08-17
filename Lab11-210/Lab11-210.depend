@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383802631 source:c:\users\michael\documents\lab11-210\hashtabledriver.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	"HashTable.h"
+	"HashTable.h"
+
+1383802494 c:\users\michael\documents\lab11-210\hashtable.h
+

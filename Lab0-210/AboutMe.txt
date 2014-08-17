@@ -1,0 +1,4 @@
+1. Michael Monitto
+2. Prerequisistes: I took COMSC 165 in the fall of 2012. Professor Burns was my instructor. I was in your class.
+3. Compiler(s): I plan to use the Visual C++ Compiler or the GNU GCC compiler
+4. Editor(s): I plan to use Visual Studio 2010/2012 or CodeBlocks as my editor

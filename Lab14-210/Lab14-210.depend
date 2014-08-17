@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1386368666 source:c:\users\michael monitto\desktop\lab14-210\mysortablearray.cpp
+	<iostream>
+	"SortableArray.h"
+	<cstdlib>
+
+1386368485 c:\users\michael monitto\desktop\lab14-210\sortablearray.h
+	<string>
+
